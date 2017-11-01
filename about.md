@@ -8,7 +8,7 @@ I'm an intended CS/Math major at Harvey Mudd College.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I identify as Pakistani-American (although born in the US). My interests include playing the violin, reading, tennis, cognitive science, AI, and philosophy.
 
 ### Contact me
 
