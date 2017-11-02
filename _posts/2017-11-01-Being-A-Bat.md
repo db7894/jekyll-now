@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Hofstadter, Nagel, and the Limits of Consciousness
 ---
 ## Hofstadter, Nagel, and the Limits of Consciousness
 
