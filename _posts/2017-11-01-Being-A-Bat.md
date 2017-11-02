@@ -2,7 +2,6 @@
 layout: post
 title: Hofstadter, Nagel, and the Limits of Consciousness
 ---
-## Hofstadter, Nagel, and the Limits of Consciousness
 
 > The closing of the strange loop of human selfhood is deeply dependent upon the level-changing leap that is __perception__, which means __categorization__, and therefore, the richer and more powerful an organism's categorization equipment is, the more realized and rich will be its self. Conversely, the poorer an organism's repertoire of categories, the more impoverished will be the self, until in the limit there simply is no self at all. (Hofstadter 209)
 
