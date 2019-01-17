@@ -6,7 +6,7 @@ permalink: /experience/
 
 ## Research
 
-Starting January 2019, I will be involved in the AMISTAD (Artificial Machine Intelligence = Search Targets Awaiting Discovery) lab with professor [George Monta\~nez](http://www.cs.cmu.edu/~gmontane/), professor of Computer Science at Harvey Mudd College. The inspiration of the lab focuses on a framework for understanding Machine Learning that leverages aspects of statistical estimation, information theory, and algorithmic search. 
+Starting January 2019, I will be involved in the AMISTAD (Artificial Machine Intelligence = Search Targets Awaiting Discovery) lab with professor [George Montañez](http://www.cs.cmu.edu/~gmontane/), professor of Computer Science at Harvey Mudd College. The inspiration of the lab focuses on a framework for understanding Machine Learning that leverages aspects of statistical estimation, information theory, and algorithmic search. 
 My research here will focus on theoretical Machine Learning, and projects will be similar to one I pursued as part of my coursework in Fall 2018 that involved proving upper bounds on the proportion of successful search problems in a continuous compact space. 
 
 From January to December 2018 I was involved in the Music Information Retrieval Lab at Harvey Mudd College. As a member of this lab, I primarily worked on a project involving utilizing computer vision and object detection techniques to develop a system that could take an image of a page of sheet music and identify the name of the piece by searching for it in a massive database.
@@ -41,6 +41,9 @@ During this project, I learned a great deal about deep learning through completi
 - Principles of Economic Analysis
 
 ## Teaching and Leadership
+
+I'm really passionate about leadership and trying to make an impact on my campus and the people around me. To that end, I currently serve as Diversity Director on the Executive Board of the Associated Students of Harvey Mudd College (ASHMC), HMC's student government. In this role, I oversee and help diversity-related groups and organizations in their efforts to create a more inclusive atmosphere on campus, and help support on-campus activities and services designed to promote diversity. Two examples of projects I've helped work on include the Riggs Room, a space for diversity groups on Harvey Mudd's campus, and the ASHMC Textbook Library, a service for students to freely borrow and use textbooks for their core and major classes without having to deal with the financial burden of purchasing them.
+During my freshman and sophomore year, I served as Co-President of the Class of 2020, where I put on events to promote interaction and bonding both among students and between students and professors and served as a liaison between students and ASHMC. 
 
 This Spring (2019), I will be TAing for CS 158 (Machine Learning) and CS 140 (Algorithms) at Harvey Mudd College. For these classes, I will be holding office hours and grading assignments. 
 
