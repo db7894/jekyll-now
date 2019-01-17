@@ -15,6 +15,8 @@ During this project, I learned a great deal about deep learning through completi
 
 ## Coursework
 
+Because of Harvey Mudd's Core requirements, I spent my first three semesters straddled between all disciplines that Harvey Mudd offers. Mudd requires all students to take a set list of courses from Chemistry, Biology, Physics, Computer Science, Engineering, Mathematics, and Critical Inquiry / Writing during the first three semesters. While I found that this leaves time for major-specific courses and work pretty limited until the end of sophomore year, I think it provided the benefit that I had exposure to a great deal of areas in STEM and really have a passion for what I want to focus on.
+
 ### Computer Science / Engineering
 
 - Computer Systems (Spring 2019)
@@ -23,6 +25,8 @@ During this project, I learned a great deal about deep learning through completi
 - Machine Learning, Information Theory and Search
 - Logic and Computability
 - Data Structures and Program Development
+- Electrical Engineering
+- Engineering Design and Manufacturing
 
 ### Mathematics
 
