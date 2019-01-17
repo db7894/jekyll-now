@@ -4,8 +4,6 @@ title: Experience
 permalink: /experience/
 ---
 
-# Overview
-
 While you'll see that most of my experience is in research, I really care about making a concrete impact on the world around me and helping people live better lives. To that end, it's my goal to work in industry where I can do work that both speaks to me (on the level of my love for math, algorithms, and so on), but also has real-world uses and benefits for other people.
 
 ## Research
