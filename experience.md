@@ -6,6 +6,9 @@ permalink: /experience/
 
 ## Research
 
+Starting January 2019, I will be involved in the AMISTAD (Artificial Machine Intelligence = Search Targets Awaiting Discovery) lab with professor [George Monta\~nez](http://www.cs.cmu.edu/~gmontane/), professor of Computer Science at Harvey Mudd College. The inspiration of the lab focuses on a framework for understanding Machine Learning that leverages aspects of statistical estimation, information theory, and algorithmic search. 
+My research here will focus on theoretical Machine Learning, and projects will be similar to one I pursued as part of my coursework in Fall 2018 that involved proving upper bounds on the proportion of successful search problems in a continuous compact space. 
+
 From January to December 2018 I was involved in the Music Information Retrieval Lab at Harvey Mudd College. As a member of this lab, I primarily worked on a project involving utilizing computer vision and object detection techniques to develop a system that could take an image of a page of sheet music and identify the name of the piece by searching for it in a massive database.
 
 During this project, I learned a great deal about deep learning through completing fast.ai where I learned about the Keras, Theano and Tensorflow libraries as well as the mathematics behind deep learning involving Convolutional and Recurrent Neural Networks. I learned how to use Python libraries such as BeautifulSoup to implement a web scraper to download more than 400,000 PDFs from a website, implemented and iterated a number of machine learning architectures to solve various problems in Python, and performed a great deal of data manipulation and visualization using libraries such as Pandas in order to better understand our problem. 
@@ -37,4 +40,8 @@ During this project, I learned a great deal about deep learning through completi
 - Foreign Relations of the US
 - Principles of Economic Analysis
 
-## Teaching
+## Teaching and Leadership
+
+This Spring (2019), I will be TAing for CS 158 (Machine Learning) and CS 140 (Algorithms) at Harvey Mudd College. For these classes, I will be holding office hours and grading assignments. 
+
+In Fall 2017, I TAed for the advanced section of CS5 at Harvey Mudd College, and for CS35 (Data Science) in Spring of 2018.
