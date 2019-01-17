@@ -4,6 +4,10 @@ title: Experience
 permalink: /experience/
 ---
 
+# Overview
+
+While you'll see that most of my experience is in research, I really care about making a concrete impact on the world around me and helping people live better lives. To that end, it's my goal to work in industry where I can do work that both speaks to me (on the level of my love for math, algorithms, and so on), but also has real-world uses and benefits for other people.
+
 ## Research
 
 Starting January 2019, I will be involved in the AMISTAD (Artificial Machine Intelligence = Search Targets Awaiting Discovery) lab with professor [George Montañez](http://www.cs.cmu.edu/~gmontane/), professor of Computer Science at Harvey Mudd College. The inspiration of the lab focuses on a framework for understanding Machine Learning that leverages aspects of statistical estimation, information theory, and algorithmic search. 
@@ -48,7 +52,7 @@ Because of Harvey Mudd's Core requirements, I spent my first three semesters str
 
 ![ASHMC 2018-2019](https://github.com/db7894/db7894.github.io/blob/master/images/ASHMC_F18_Compressed-1024x683.jpg)
 
-I'm really passionate about leadership and trying to make an impact on my campus and the people around me. To that end, I currently serve as Diversity Director on the Executive Board of the Associated Students of Harvey Mudd College (ASHMC), HMC's student government. In this role, I oversee and help diversity-related groups and organizations in their efforts to create a more inclusive atmosphere on campus, and help support on-campus activities and services designed to promote diversity. Two examples of projects I've helped work on include the Riggs Room, a space for diversity groups on Harvey Mudd's campus, and the ASHMC Textbook Library, a service for students to freely borrow and use textbooks for their core and major classes without having to deal with the financial burden of purchasing them.
+I'm passionate about leadership and trying to make an impact on my campus and the people around me. To that end, I currently serve as Diversity Director on the Executive Board of the Associated Students of Harvey Mudd College (ASHMC), HMC's student government. In this role, I oversee and help diversity-related groups and organizations in their efforts to create a more inclusive atmosphere on campus, and help support on-campus activities and services designed to promote diversity. Two examples of projects I've helped work on include the Riggs Room, a space for diversity groups on Harvey Mudd's campus, and the ASHMC Textbook Library, a service for students to freely borrow and use textbooks for their core and major classes without having to deal with the financial burden of purchasing them.
 
 During my freshman and sophomore year, I served as Co-President of the Class of 2020, where I put on events to promote interaction and bonding both among students and between students and professors and served as a liaison between students and ASHMC. As a member of Senate, I helped craft policy and voted on various proposals from funding/budgeting requests to changes to ASHMC's constituation.
 
