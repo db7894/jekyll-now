@@ -47,4 +47,4 @@ I'm really passionate about leadership and trying to make an impact on my campus
 During my freshman and sophomore year, I served as Co-President of the Class of 2020, where I put on events to promote interaction and bonding both among students and between students and professors and served as a liaison between students and ASHMC. 
 
 This Spring (2019), I will be TAing for CS 158 (Machine Learning) and CS 140 (Algorithms) at Harvey Mudd College. For these classes, I will be holding office hours and grading assignments. 
-In Fall 2017, I TAed for the advanced section of CS5 at Harvey Mudd College, and for CS35 (Data Science) in Spring of 2018.
+In Fall 2017, I TAed for the advanced section of CS5 (Introduction to Computer Science) at Harvey Mudd College, and for CS35 (Data Science) in Spring of 2018.
